@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mu'adhim</h1>
 <h3 align="center">A software engineer from Nanggroe Aceh Darussalam</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang, Python**
 
 - 💬 Ask me about **next, react, vue**
 
